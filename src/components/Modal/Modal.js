@@ -9,8 +9,16 @@ const ModalContainer = styled.div`
 	width: 100%;
 	background-color: white;
 	height: auto;
-	opacity: 0;
-	transform: translateY(-100%);
+	padding-bottom: 1.4rem;
+
+	@media (min-width: 1281px) {
+		max-width: 940px;
+		border-radius: 10px;
+	}
+	@media (min-width: 1025px) and (max-width: 1280px) {
+		max-width: 840px;
+		border-radius: 10px;
+	}
 `;
 
 const CloseButton = styled.button`
@@ -24,37 +32,42 @@ const CloseButton = styled.button`
 	& svg {
 		width: 100%;
 		height: 100%;
+		pointer-events: none;
+	}
+	@media (min-width: 1281px) {
+		top: 0rem;
+		right: -5rem;
 	}
 `;
 
 const Video = styled.div`
 	width: 100%;
 	height: 21.1rem;
-
+	overflow: hidden;
 	& iframe {
 		width: 100%;
 		height: 100%;
 	}
+	@media (min-width: 1281px) {
+		height: 520px;
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+	}
+	@media (min-width: 1025px) and (max-width: 1280px) {
+		height: 340px;
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+	}
 `;
-const Modal = (props) => {
+const Modal = ({ artist, onClose }) => {
 	return (
 		<Backdrop>
 			<ModalContainer>
-				<CloseButton onClick={props.onClose}>
+				<CloseButton className="closeBtn">
 					<CloseIcon />
 				</CloseButton>
-				<Video>
-					<iframe
-						title="youtbe video"
-						width="560"
-						height="315"
-						src="https://www.youtube.com/embed/-yOxVTcMX1k"
-						frameBorder="0"
-						allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-						allowfullscreen
-					></iframe>
-				</Video>
-				<ArtistInfo />
+				<Video dangerouslySetInnerHTML={{ __html: artist.iframe }}></Video>
+				<ArtistInfo artist={artist} />
 			</ModalContainer>
 		</Backdrop>
 	);

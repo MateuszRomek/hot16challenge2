@@ -43,7 +43,8 @@ const Link = styled.a`
 	display: inline-block;
 	height: 3rem;
 	width: 3rem;
-
+	text-decoration: none;
+	text-transform: uppercase;
 	& svg {
 		width: 100%;
 		height: 100%;
@@ -61,6 +62,7 @@ const LinkRound = styled.a`
 	padding: 0.5rem 1rem;
 	overflow: hidden;
 	text-transform: uppercase;
+	text-decoration: none;
 	background-color: rgb(246, 240, 104);
 	& img {
 		margin-left: 1rem;
@@ -89,36 +91,35 @@ const Nominated = styled.span`
 	border-radius: 5px;
 `;
 
-const ArtistInfo = () => {
+const ArtistInfo = ({ artist: { name, youtube, nominated, rapgenius } }) => {
+	const rapgeniusLink = rapgenius && (
+		<LinkRound target="blank" href={rapgenius}>
+			Rapgenius
+			<img alt="rapgenius" src={rapgeniusImage} />
+		</LinkRound>
+	);
+
 	return (
 		<div>
 			<Header>
-				<ArtistHeadline>Sarius</ArtistHeadline>
+				<ArtistHeadline>{name}</ArtistHeadline>
 			</Header>
 			<section>
 				<SmallHeadline>Linki:</SmallHeadline>
 
 				<LinkContainer>
-					<Link>
+					<Link target="blank" href={youtube}>
 						<YtIcon />
 					</Link>
-					<LinkRound>
-						Rapgenius
-						<img alt="rapgenius" src={rapgeniusImage} />
-					</LinkRound>
+					{rapgeniusLink}
 				</LinkContainer>
 			</section>
 			<section>
 				<SmallHeadline>Nominowani:</SmallHeadline>
 				<NominatedContainer>
-					<Nominated>OSTR</Nominated>
-					<Nominated>OSTR</Nominated>
-					<Nominated>Kękę</Nominated>
-					<Nominated>OSTR</Nominated>
-					<Nominated>OSTR</Nominated>
-					<Nominated>Quebonafide</Nominated>
-					<Nominated>OSTR</Nominated>
-					<Nominated>TacoHemingway</Nominated>
+					{nominated.map((nominatedArtist, index) => (
+						<Nominated key={index}>{nominatedArtist}</Nominated>
+					))}
 				</NominatedContainer>
 			</section>
 		</div>

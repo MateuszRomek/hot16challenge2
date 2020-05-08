@@ -15,7 +15,7 @@ const Fixed = styled.div`
 `;
 
 const Backdrop = ({ children }) => {
-	return <Fixed>{children}</Fixed>;
+	return <Fixed className="backdrop">{children}</Fixed>;
 };
 
 export default Backdrop;

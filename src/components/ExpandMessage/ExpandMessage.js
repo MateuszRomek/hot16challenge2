@@ -5,6 +5,10 @@ import { MediumHeadline } from '../../assets/styles/SharedStyledComponents/Share
 const ExpandMessageContainer = styled.div`
 	padding: 1rem 1.5rem;
 	margin: 1.5rem 0;
+	@media (min-width: 1281px) {
+		grid-column: 1/-1;
+		grid-row: 1;
+	}
 `;
 const ExpandMessageLanguages = styled.div`
 	width: 100%;
@@ -16,6 +20,9 @@ const ExpantMessageContent = styled.div`
 	height: ${(props) => (props.isExpand ? '260px' : '0px')};
 	overflow: hidden;
 	margin-bottom: 1rem;
+	@media (min-width: 1281px) {
+		height: ${(props) => (props.isExpand ? '120px' : '0px')};
+	}
 `;
 
 const Button = styled.button`

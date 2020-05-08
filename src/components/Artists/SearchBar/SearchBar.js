@@ -51,14 +51,18 @@ const SearchInput = styled.input`
 	}
 `;
 
-const SearchBar = () => {
+const SearchBar = ({ value, onChange }) => {
 	return (
 		<Container>
 			<SearchContainer>
 				<InconContainer>
 					<SearchIcon />
 				</InconContainer>
-				<SearchInput placeholder="Filtruj Artystów" />
+				<SearchInput
+					value={value}
+					onChange={onChange}
+					placeholder="Filtruj Artystów"
+				/>
 			</SearchContainer>
 		</Container>
 	);
