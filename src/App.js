@@ -1,26 +1,34 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import MainTemplate from './templates/MainTemplate/MainTemplate';
+import Header from './components/Header/Header';
+import Banner from './components/Banner/Banner';
+import Artists from './components/Artists/Artists';
+import ExpandMessage from './components/ExpandMessage/ExpandMessage';
+import Modal from './components/Modal/Modal';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	const [isModalOpen, setModal] = useState(false);
+	const [currentArtist, setCurrentArtist] = useState({});
+	const OpenModal = () => setModal(true);
+	const CloseModal = () => setModal(false);
+
+	const HandleArtistClick = (artist) => {
+		console.log(artist);
+	};
+
+	return (
+		<div className="App">
+			<MainTemplate>
+				{isModalOpen && <Modal open={isModalOpen} onClose={CloseModal} />}
+
+				<Header />
+				<Banner />
+				<ExpandMessage />
+
+				<Artists handleArtistChange={HandleArtistClick} />
+			</MainTemplate>
+		</div>
+	);
 }
 
 export default App;
