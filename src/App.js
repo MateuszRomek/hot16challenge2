@@ -7,6 +7,8 @@ import Artists from './components/Artists/Artists';
 import ExpandMessage from './components/ExpandMessage/ExpandMessage';
 import Modal from './components/Modal/Modal';
 import { artistArray } from './artistArray';
+import OfficialSite from './components/OfficialSite/OfficialSite';
+import Footer from './components/Footer/Footer';
 
 const DesktopGrid = styled.div`
 	@media (min-width: 1281px) {
@@ -23,7 +25,7 @@ function App() {
 
 	const CloseModal = (e) => {
 		const targetClassName = e.target.className;
-
+		if (typeof targetClassName !== 'string') return;
 		if (
 			targetClassName.includes('closeBtn') ||
 			targetClassName.includes('backdrop')
@@ -33,7 +35,10 @@ function App() {
 	};
 
 	const FindArtist = (name) => {
-		const artistIndex = artistArray.findIndex((a) => a.name === name);
+		const artistIndex = artistArray.findIndex(
+			(a) => a.name.toLowerCase() === name.toLowerCase()
+		);
+		if (artistIndex === -1) return false;
 		const artistObj = { ...artistArray[artistIndex] };
 		setCurrentArtist({ ...artistObj });
 	};
@@ -46,8 +51,11 @@ function App() {
 	return (
 		<div onClick={CloseModal} className="App">
 			<MainTemplate>
-				{isModalOpen && <Modal artist={currentArtist} />}
+				{isModalOpen && (
+					<Modal findArtist={FindArtist} artist={currentArtist} />
+				)}
 				<Header />
+				<OfficialSite />
 				<DesktopGrid>
 					<Banner />
 					<ExpandMessage />
@@ -57,6 +65,7 @@ function App() {
 						handleArtistChange={HandleArtistClick}
 					/>
 				</DesktopGrid>
+				<Footer />
 			</MainTemplate>
 		</div>
 	);

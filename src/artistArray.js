@@ -51,7 +51,7 @@ export const artistArray = [
 		rapgenius: 'https://genius.com/Kuqe-2115-hot16challenge2-lyrics',
 		nominated: [
 			'Kiełas',
-			'Olszakumpel',
+			'olszakumpel',
 			'Adi Nowak',
 			'Xayoo',
 			'Piotr Fronczewski',
@@ -65,7 +65,7 @@ export const artistArray = [
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/DPDyy28uyIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/DPDyy28uyIk',
 		rapgenius: 'https://genius.com/Kieas-hot16challenge2-lyrics',
-		nominated: [],
+		nominated: ['Fazi'],
 	},
 	{
 		id: uuidv4(),
@@ -214,7 +214,7 @@ export const artistArray = [
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/07AodCVbCQs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/07AodCVbCQs',
-		rapgenius: '',
+		rapgenius: 'https://genius.com/Hase-hot16challenge2-lyrics',
 		nominated: ['Oxon', 'Jeden', 'Krys', 'Antykonfident'],
 	},
 	{
@@ -268,8 +268,8 @@ export const artistArray = [
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/efUVHKenNVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/efUVHKenNVc',
-		rapgenius: '',
-		nominated: ['Dvp1', 'Nerink', 'Kevlar', 'KVBX'],
+		rapgenius: 'https://genius.com/Alien-pl-hot16challenge2-lyrics',
+		nominated: ['Dvp1', 'Nerink', 'Kevlar', 'KVBX', 'Antonine'],
 	},
 
 	{
@@ -357,7 +357,7 @@ export const artistArray = [
 			'SŁAWCZI TTWL',
 			'DEDIS',
 			'DAWID OBSERWATOR',
-			' OLIVER OLSON',
+			'OLIVER OLSON',
 		],
 	},
 	{
@@ -389,7 +389,7 @@ export const artistArray = [
 		nominated: [
 			'Łucznik',
 			'Pathos',
-			'Kafar DIX 37',
+			'Kafar DIX37',
 			'Dudek P56',
 			'Vin Vinci (Vandal Vibe)',
 		],
@@ -448,7 +448,7 @@ export const artistArray = [
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/HI7EREJBcJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/HI7EREJBcJQ',
-		rapgenius: '',
+		rapgenius: 'https://genius.com/Kobik-hot16challenge2-lyrics',
 		nominated: ['Shellerini', 'Sitek', 'Młody Dron', 'Fresh Polakke'],
 	},
 	{
@@ -548,7 +548,7 @@ export const artistArray = [
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/drEooYIJsNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/drEooYIJsNg',
 		rapgenius: 'https://genius.com/Rolex-pl-hot16challenge2-lyrics',
-		nominated: ['Młodzian', 'Jasin', 'Michu', "Karol'ek"],
+		nominated: ['Młodzian MRG', 'Jasin', 'Michu', "Karol'ek"],
 	},
 	{
 		id: uuidv4(),
@@ -833,8 +833,9 @@ export const artistArray = [
 		name: 'Marianne',
 		imageURL:
 			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2Ffd5b82bae2aa9925d6ccc7fa01e99f90.288x288x1.jpg',
-		iframe: '',
-		youtube: '',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/VcsWNVFLm8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/VcsWNVFLm8g',
 		rapgenius: 'https://genius.com/Marianne-hot16challenge2-lyrics',
 		nominated: ['TKM', 'Pit', 'Remo', 'C0PIK'],
 	},
@@ -926,7 +927,7 @@ export const artistArray = [
 	},
 	{
 		id: uuidv4(),
-		name: 'Dawid Podisadło',
+		name: 'Dawid Podsiadło',
 		imageURL:
 			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2Fa8cffa0211594b680011513024bccf04.1000x1000x1.jpg',
 		iframe:
@@ -944,7 +945,7 @@ export const artistArray = [
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/C8UrisDvrbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/C8UrisDvrbY',
 		rapgenius: 'https://genius.com/Guzior-hot16challenge2-lyrics',
-		nominated: ['Adamo', 'Przemo DBM', 'Eminem', 'Slim Szczegi'],
+		nominated: ['Adamo', 'Przemo DBM', 'Eminem', 'Slim Szczegi', 'SONIC'],
 	},
 
 	{
@@ -1129,7 +1130,7 @@ export const artistArray = [
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/osrQcIkN0Pg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/osrQcIkN0Pg',
 		rapgenius: 'https://genius.com/Joda-hot16challenge2-lyrics',
-		nominated: ['Avi', 'Głowa PMM'],
+		nominated: ['Avi', 'Głowa PMM', 'Aero'],
 	},
 
 	{
@@ -1152,7 +1153,7 @@ export const artistArray = [
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/nf4v_SxmAH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/nf4v_SxmAH8',
 		rapgenius: 'https://genius.com/Lipa-bor-hot16challenge2-lyrics',
-		nominated: ['Dawol', 'Dzida', 'Dryja'],
+		nominated: ['Dawol', 'Dzida', 'Dryja', 'Kuban', 'Kacper HTA'],
 	},
 
 	{
@@ -1209,7 +1210,7 @@ export const artistArray = [
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/_a4Tf83IpdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/_a4Tf83IpdY',
 		rapgenius: 'https://genius.com/Green-pl-hot16challenge-lyrics',
-		nominated: ['Rahim', 'Małpa', 'Gres'],
+		nominated: ['Rahim', 'Małpa', 'Gres', 'Bartosz Kapustka', 'Wigor'],
 	},
 
 	{
@@ -1638,15 +1639,15 @@ export const artistArray = [
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/mBnRkKUgkeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/mBnRkKUgkeQ',
-		rapgenius: '',
-		nominated: ['Bonus BGC'],
+		rapgenius: 'https://genius.com/Bober-hot16challenge2-lyrics',
+		nominated: ['Bonus BGC', 'Szesnasty', 'Pueblos', 'Token', 'Pokahontaz'],
 	},
 
 	{
 		id: uuidv4(),
 		name: 'MATA',
 		imageURL:
-			'https://t2.genius.com/unsafe/221x221/https%3A%2F%2Fimages.genius.com%2Fb3da3a2e7cde3c9eaf12e2c1d1742f6f.720x720x1.png',
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2Fcdb15234e41a510610574cea3b65a89b.449x449x1.jpg',
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/ynON9o2yHVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/ynON9o2yHVk',
@@ -1726,7 +1727,7 @@ export const artistArray = [
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/yQQUbfmcI9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/yQQUbfmcI9k',
 		rapgenius: 'https://genius.com/Gruby-mielzky-hot16challenge2-lyrics',
-		nominated: ['Kabe', 'Dwa Sławy'],
+		nominated: ['Kabe', 'Dwa Sławy', 'Oki'],
 	},
 
 	{
@@ -1752,11 +1753,11 @@ export const artistArray = [
 		id: uuidv4(),
 		name: 'ERO JWP',
 		imageURL:
-			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F924e8987a4c895128150addac5e2712e.300x300x1.jpg',
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/ASYW_Egt4LE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/ASYW_Egt4LE',
-		rapgenius: '',
+		rapgenius: 'https://genius.com/Ero-jwp-hot16challenge2-lyrics',
 		nominated: ['PiH', 'Pono', 'Hudy HZD'],
 	},
 
@@ -1781,12 +1782,12 @@ export const artistArray = [
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/vtH9gI7lkTs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/vtH9gI7lkTs',
 		rapgenius: 'https://genius.com/Marceli-bober-hot16challenge2-lyrics',
-		nominated: ['MADA', 'SKIP', 'BRIAN', 'KOZA', 'ATUTOWY'],
+		nominated: ['MADA', 'SKIP', 'BRIAN', 'Koza', 'ATUTOWY'],
 	},
 
 	{
 		id: uuidv4(),
-		name: 'KOZA',
+		name: 'Koza',
 		imageURL:
 			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
 		iframe:
@@ -1816,7 +1817,7 @@ export const artistArray = [
 	},
 	{
 		id: uuidv4(),
-		name: 'Pih',
+		name: 'PiH',
 		imageURL:
 			'https://yt3.ggpht.com/a/AATXAJzyGCdeE8W8OFtthzeJv5kO0SNTv3NZ30MpsA=s48-c-k-c0xffffffff-no-rj-mo',
 		iframe:
@@ -2020,7 +2021,8 @@ export const artistArray = [
 	{
 		id: uuidv4(),
 		name: 'Young Lungs',
-		imageURL: 'XXXXXXXXX',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/VazPrFtP_CE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/VazPrFtP_CE',
@@ -2085,8 +2087,8 @@ export const artistArray = [
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/XJIJz01Scnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/XJIJz01Scnc',
-		rapgenius: 'XXXXX',
-		nominated: ['XXX', 'XXX', 'XXXXX', 'XXX', 'XXX'],
+		rapgenius: 'https://genius.com/Barvinsky-hot16challenge2-lyrics',
+		nominated: ['Niebostan', 'Kokavice', 'Holak', 'Arctic Monkeys'],
 	},
 	{
 		id: uuidv4(),
@@ -2096,8 +2098,8 @@ export const artistArray = [
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/FpQJ4ZDaqk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/FpQJ4ZDaqk8',
-		rapgenius: '',
-		nominated: ['Ten Preston', 'Estro'],
+		rapgenius: 'https://genius.com/Brian-polish-raper-hot16challanege2-lyrics',
+		nominated: ['Ten Preston', 'Estro', 'Zbigniew Stonoga', 'Ryfa Ri'],
 	},
 	{
 		id: uuidv4(),
@@ -2218,7 +2220,7 @@ export const artistArray = [
 		youtube: 'https://youtu.be/UEFrRgNfy7M',
 		rapgenius: '',
 		nominated: [
-			'Barto’cut12',
+			"Barto'cut12",
 			'Skrubol',
 			'Beuz',
 			'Waldemar Kasta',
@@ -2227,7 +2229,7 @@ export const artistArray = [
 	},
 	{
 		id: uuidv4(),
-		name: 'Barto’cut12',
+		name: "Barto'cut12",
 		imageURL:
 			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F4a5fe2c5fb1feb206f30afddfa7d3b35.960x960x1.jpg',
 		iframe:
@@ -2390,7 +2392,7 @@ export const artistArray = [
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUzOnIJUbnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/ZUzOnIJUbnM',
 		rapgenius: 'https://genius.com/Paris-platynov-hot16challenge2-lyrics',
-		nominated: ['Pelcu'],
+		nominated: ['PLC', 'Andrzej Duda'],
 	},
 	{
 		id: uuidv4(),
@@ -2435,14 +2437,7 @@ export const artistArray = [
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/LuOpoTGyOtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/LuOpoTGyOtA',
 		rapgenius: 'https://genius.com/Pazzy-hot16challenge2-lyrics',
-		nominated: [
-			'Vkie',
-			'Szopen',
-			'Szychvl',
-			'Awalas',
-			'Jimin',
-			'Dominik Krulig Bugz',
-		],
+		nominated: ['Vkie', 'Szopen', 'Szychvl', 'Awalas', 'Jimin', 'Krulig'],
 	},
 	{
 		id: uuidv4(),
@@ -2464,7 +2459,7 @@ export const artistArray = [
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/PmTEnjsHEoc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/PmTEnjsHEoc',
 		rapgenius: '',
-		nominated: ['Advm', 'Alanija', 'Kstyk', 'Wojti', 'Nowyjasiu', 'Minimajk'],
+		nominated: ['Advm', 'Alanija', 'Kstyk', 'Wojti', 'Nowyjasiu', 'Mini Majk'],
 	},
 	{
 		id: uuidv4(),
@@ -2552,7 +2547,7 @@ export const artistArray = [
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/0quvtM7ctcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/0quvtM7ctcc',
 		rapgenius: 'https://genius.com/Szopeen-hot16challenge2-lyrics',
-		nominated: ['ZetHa', 'Risk on Money', 'Wac toja', 'Pertidziwko'],
+		nominated: ['ZetHa', 'Risk on Money', 'Wac toja', 'Perti'],
 	},
 	{
 		id: uuidv4(),
@@ -2770,7 +2765,7 @@ export const artistArray = [
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/vVqWUPpIl4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/vVqWUPpIl4M',
-		rapgenius: '',
+		rapgenius: 'https://genius.com/Kali-pl-hot16challenge2-lyrics',
 		nominated: ['Bosski', 'Tadek', 'Pomidor', 'Popek', 'Seba'],
 	},
 	{
@@ -2792,7 +2787,7 @@ export const artistArray = [
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/ahOo-YjxZAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/ahOo-YjxZAM',
-		rapgenius: '',
+		rapgenius: 'https://genius.com/Pezet-hot16challenge2-lyrics',
 		nominated: [
 			'Płomień 81',
 			'PRO8BL3M',
@@ -2849,7 +2844,7 @@ export const artistArray = [
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/uRwZxxYRv4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/uRwZxxYRv4Q',
-		rapgenius: '',
+		rapgenius: 'https://genius.com/Bartosz-kapustka-hot16challenge2-lyrics',
 		nominated: [
 			'B.R.O',
 			'Ostry/Bezimienni',
@@ -2887,7 +2882,7 @@ export const artistArray = [
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/5BzPHawgSvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/5BzPHawgSvw',
-		rapgenius: '',
+		rapgenius: 'https://genius.com/Kaen-hot16challenge2-lyrics',
 		nominated: ['Eminem', 'Adam Graf', 'Anthemia Moab', 'Liroy', 'Beny B'],
 	},
 	{
@@ -2934,7 +2929,7 @@ export const artistArray = [
 		iframe:
 			'<iframe width="560" height="315" src="https://www.youtube.com/embed/RiaGBoaR4uo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		youtube: 'https://youtu.be/RiaGBoaR4uo',
-		rapgenius: '',
+		rapgenius: 'https://genius.com/Hvzx-hot16challenge2-lyrics',
 		nominated: ['Night Marks', 'Kstyk', 'Sanah', 'Kortez', 'Mierzyn', 'Lahu'],
 	},
 	{
@@ -3006,6 +3001,2021 @@ export const artistArray = [
 			'Rethro',
 			'Bladson',
 			'Reez',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'QBIK',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJyAPJKVBkpGzh0heba52Mu13qF9WDh7lUx0oQ=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/WRVIHQjsuNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/WRVIHQjsuNE',
+		rapgenius: 'https://genius.com/qbik-hot16challenge2-lyrics',
+		nominated: ['BEKA KSH', 'RAFONIX', 'DARCI', 'ADAM MAŁYSZ'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Friz',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fa9fa7ff2a5e798e06e3ace6e95c33f44.1000x563x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/QQWnpfk_x7I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/QQWnpfk_x7I',
+		rapgenius: 'https://genius.com/Friz-yt-hot16challenge2-lyrics',
+		nominated: ['Robert Pasut', ' Young Multi', 'Cleo', 'Logan Paul'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Mini Majk',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2Fb59e40b2f49a6ae477e12af818a931d1.480x480x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/97OMVVYdtqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/97OMVVYdtqk',
+		rapgenius: 'https://genius.com/Mini-majk-hot16challenge2-lyrics',
+		nominated: ['WIP Bros', 'Mamiko', 'Jacek Stachursky', 'Dwarf Mamba'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Hans 52',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJzkix-79onSpL_EgKoIJovQpx7KOoCOTQu7Gw=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/iTJN585imWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/iTJN585imWo',
+		rapgenius: '',
+		nominated: ['Magiera', 'DJ600V', 'Bobson', 'Małpa', 'Siepomaga'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Żabson',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fe2ecfc269e3a4784038852e4d2fc0cf9.1000x1000x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/rk75bscSZYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/rk75bscSZYo',
+		rapgenius: 'https://genius.com/Zabson-hot16challenge2-lyrics',
+		nominated: [
+			'Yzomandias',
+			'Monkey 67',
+			'Vegas Jones',
+			'Ginger',
+			'Sobel',
+			'Duszyn',
+			'Dziarma',
+			'Young Leosia',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Adi Nowak',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F7d5516bf5e2ff78d4b26f27e2180fd1b.660x623x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/C0zcoIpGpKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/C0zcoIpGpKw',
+		rapgenius: 'https://genius.com/Adi-nowak-hot16challenge2-lyrics',
+		nominated: ['Gaweł', 'Dominik', 'Huta 99', 'Mc Slik'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Albi',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJxCRg0QLkzatulqDbsTxnb8tpILIl-uamEX7w=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/c-tMCgcBp-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/c-tMCgcBp-I',
+		rapgenius: 'https://genius.com/Albi-hot16challenge2-lyrics',
+		nominated: ['Sid', 'Fresz', 'Hukos', 'Rufuz'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Ali471',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fc82e3e460f8cdddb306821e6e2f18a87.543x543x1.jpg',
+		iframe: '',
+		youtube:
+			'https://www.instagram.com/p/B_5N1u0httg/?utm_source=ig_web_copy_link',
+		rapgenius: 'https://genius.com/Ali471-hot16challenge2-lyrics',
+		nominated: [],
+	},
+	{
+		id: uuidv4(),
+		name: 'Ambro',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJz0reDylR-HyVJEp2citzPIUjHNoSZj-6dvlA=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/vKUgq_QhXFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/vKUgq_QhXFg',
+		rapgenius: 'https://genius.com/Ambro-hot16challenge2-lyrics',
+		nominated: ['Golo', 'Mazur a.k.a. Duff', 'Baczmag', 'Nuk'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Aron HBR',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F5b7faad8e8893fb001c133a62b52a240.360x360x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/YK5oPZIyUOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/YK5oPZIyUOY',
+		rapgenius: 'https://genius.com/Aron-hbr-hot16challenge2-lyrics',
+		nominated: [
+			'Gizmo WDP',
+			'Peter Gang PP',
+			'Młody ZDS',
+			'Charlie WLK',
+			'KCP',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Athletico 2115',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fd201826ab3882564b9a6021f8a082baa.924x924x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/qdquGtZy-M8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/qdquGtZy-M8',
+		rapgenius: 'https://genius.com/Athletico-2115-hot16challenge2-lyrics',
+		nominated: ['Łowicz 2115', 'Adooble', 'Smxkey Nunno', 'Tovaritch'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Awalas',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F06fcb7344c318fa673df5baf179ed55c.1000x794x1.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/SBISfXECyKc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/SBISfXECyKc',
+		rapgenius: 'https://genius.com/Awalas-hot16challenge2-lyrics',
+		nominated: ['Holak', 'Samer', 'Miki', 'Fonciak'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Bajorson',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/9fdPvktT90g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/9fdPvktT90g',
+		rapgenius: 'https://genius.com/Bajorson-hot16challenge2-lyrics',
+		nominated: ['POE', 'Loko', 'Kalik Aleja WP', 'Medusa'],
+	},
+	{
+		id: uuidv4(),
+		name: 'BARON',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fe83f38304b719b146a3cb0cc656fa04e.747x539x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/0sqBump-NO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/0sqBump-NO0',
+		rapgenius: 'https://genius.com/Dead-type-baron-hot16challenge2-lyrics',
+		nominated: ['onepto', 'wara', 'enzym', 'odjutraniepale', 'profeat'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Beniamin Wrembel',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F677c7c5aa017d20b8314c0674bc46246.596x596x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/jxMNuD3b0Ko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/jxMNuD3b0Ko',
+		rapgenius: 'https://genius.com/Beniamin-wrembel-hot16challenge2-lyrics',
+		nominated: ['Ecnavelo', 'teesbexen3005', 'MD66 aka DUCHO'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Beuz',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2F876e43bf4b2d0266645f09628482a0ca.300x300x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/PTqdVh5-dQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/PTqdVh5-dQE',
+		rapgenius: 'https://genius.com/Beuz-hot16challenge2-lyrics',
+		nominated: ['Med MC', 'Bosek', 'Belmondo (Młody_G)', 'Kuler', 'KPSN'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Biernol',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fd899feb15fa505b1d89c59ad847fde36.750x750x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/WlmiT3zwMKI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/WlmiT3zwMKI',
+		rapgenius: 'https://genius.com/Biernol-hot16challenge2-lyrics',
+		nominated: ['Couronne', 'J8nT', 'Peete', 'Breezy'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Big Musik Sosa',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/cFc21j0yk90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/cFc21j0yk90',
+		rapgenius: 'https://genius.com/Big-musik-sosa-hot16challenge2-lyrics',
+		nominated: [
+			'Kuba i Mati',
+			'Disco Rockstar Mans',
+			'Kastet THC',
+			'Lil Spider',
+			'Lil B',
+			'Viper',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Bilon',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Ffda4e7bb596b6c6009a030771a45e8cd.822x1000x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/52fh7z39pdE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/52fh7z39pdE',
+		rapgenius: 'https://genius.com/Bilon-hot16challenge2-lyrics',
+		nominated: ['Żary', 'Onar', 'Wilku WDZ'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Bob One',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2Fd31f442b9ebb47fb3ed70398d8b47b50.542x542x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/CyqGn-XQoWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/CyqGn-XQoWs',
+		rapgenius: 'https://genius.com/Bob-one-hot16challenge2-lyrics',
+		nominated: ['Bas Tajpan'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Boro Banda Unikat',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Ffd094c42ea6634e6e270e873f09a97ae.1000x563x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/5OyHLd_QfZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/5OyHLd_QfZA',
+		rapgenius: 'https://genius.com/Boro-hot16challenge2-lyrics',
+		nominated: ['Wieszak ZDR', 'Pajczi', 'Kubi Banda'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Borys Kaltermann',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2Fded67b57c7c65dea4c9a754a8872dc09.453x453x1.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/DjvIV6vTRuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/DjvIV6vTRuA',
+		rapgenius: 'https://genius.com/Borys-kaltermann-hot16challenge2-lyrics',
+		nominated: [
+			'Waco',
+			'Mateusz Jędrzejewicz',
+			'Pawbeats',
+			'Raw',
+			'Toten',
+			'Don Kasjo',
+			'Laky Royal',
+			'A road',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Bosek',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/IUS4Lxp4WNA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/IUS4Lxp4WNA',
+		rapgenius: 'https://genius.com/Bosek-hot16challenge2-lyrics',
+		nominated: [
+			'Ludzie z Alternatywy',
+			'Majki',
+			'Czesław Mozil',
+			'Ak 47',
+			'Dżambodżet (ZU)',
+			'SLT',
+			'Mariusz Pudzianowski',
+			'Gutek z Megan',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Capri sauce',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/OrdHWLtx1Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/OrdHWLtx1Fs',
+		rapgenius: 'https://genius.com/Capri-sauce-hot16challenge2-lyrics',
+		nominated: [
+			'Youp',
+			'On the Fence',
+			'Febz Pi',
+			'Josimar Gomes',
+			'Stayy Cozy',
+			'Tommy Surf',
+			'Cloudy',
+			'Ilony',
+			'Burgundy Son',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'CARTER',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/PCFUbxcl3gU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/PCFUbxcl3gU',
+		rapgenius: 'https://genius.com/Carter-pl-hot16challenge2-lyrics',
+		nominated: ['ŻELU ŻELSON', 'USZER ZDP', 'KAZ', 'KARI', 'ALMOST FAMOUS'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Ceka',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/9gWA8yCh4iA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/9gWA8yCh4iA',
+		rapgenius: 'https://genius.com/Ceka-pl-hot16challenge2-lyrics',
+		nominated: ['DoktorJanek', 'miZu', 'CNT', 'Stark Funkee Nati'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Chivas',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2F5afc16294a2fc51db4a90e0c47a8a7ce.423x423x1.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/y6OBrS_EFEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/y6OBrS_EFEw',
+		rapgenius: 'https://genius.com/Chivas-hot16challenge2-lyrics',
+		nominated: ['Michał Wiśniewski', 'Pablo 2115', 'Turas', 'Benek'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Coals',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fd997be879b551539d7d0b6668ac93fd7.496x496x1.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/GUQkg7Rc_hY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/GUQkg7Rc_hY',
+		rapgenius: 'https://genius.com/Coals-hot16challenge2-lyrics',
+		nominated: [
+			'Mezo',
+			'Gargamel',
+			'Adam Repucha',
+			'Akselopapito',
+			'Bobek Bobkowski',
+			'Tommy Cash',
+			'Dziarma',
+			'Asik',
+			'Nath',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Czarli',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/6ayV7nvET6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/6ayV7nvET6Q',
+		rapgenius: 'https://genius.com/Czarli-hot16challenge2-lyrics',
+		nominated: ['Smagi', 'Hary', 'Gizmowy', 'Kris', 'Zibi'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Czeski',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/UL73c8pa_C0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/UL73c8pa_C0',
+		rapgenius: '',
+		nominated: ['MC Silk', 'Bajorson', 'Keczap', 'Eskobar', 'Milu'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Damian',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/VUvcK6Mi8QU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/VUvcK6Mi8QU',
+		rapgenius: '',
+		nominated: ['Yokinashi', 'EmKaTus', 'Przewłoka', 'frmn', 'Ajter'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Daria Zawiałow',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2Fabe1858589698095a54d0635377cb730.770x770x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/VqyL1NDRH7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/VqyL1NDRH7U',
+		rapgenius: 'https://genius.com/Daria-zawiaow-hot16challenge2-lyrics',
+		nominated: ['Krzysiek Zalewski', 'PRO8L3M', 'Artur Rojek'],
+	},
+	{
+		id: uuidv4(),
+		name: 'DEAMON',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2Fc4a2d6c5a3855166b23af6d924fb4ee3.310x310x1.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/AmWmPW_ZmS0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/AmWmPW_ZmS0',
+		rapgenius: 'https://genius.com/Deamon-hot16challenge2-lyrics',
+		nominated: ['Raportagen', 'Jay Jiggy', 'GReeeN', 'PUJA'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Deps',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJzcwH-NUNoLfJE_BAKU4G7W_wzKyb7KYV1PCw=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/fvkXXUPbvYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/fvkXXUPbvYQ',
+		rapgenius: '',
+		nominated: [
+			'Korek',
+			'Posejdon',
+			'Roszul',
+			'Piotrek Ramotowski',
+			'Filip Chajzer',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Dj Remisz',
+		imageURL:
+			'https://yt3.ggpht.com/a-/AOh14GhxdlPnxkETg_Il_Ai_ItGrszTx_e9S-lFyOGs4pQ=s48-c-k-c0xffffffff-no-nd-rj',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/-d8ATblgJmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/-d8ATblgJmE',
+		rapgenius: 'https://genius.com/Dj-remisz-hot16challenge2-lyrics',
+		nominated: [
+			'Gibbs',
+			'Galla',
+			'Monumatik',
+			'Tazer',
+			'Leny da fam',
+			'Kozersky',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Duke102',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2Fab52c155c6b0de463bc5d83681c15fb1.640x640x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/O6u_UdZUdss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/O6u_UdZUdss',
+		rapgenius: 'https://genius.com/Duke102-hot16challenge2-lyrics',
+		nominated: [
+			'Majer',
+			'Profeat',
+			'Zero',
+			'Slav Plusvieracht',
+			'Robert Makłowicz',
+			'Mati Fox',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Dzakob',
+		imageURL: 'XXXXXXXXX',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/geUSdMqdNJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/geUSdMqdNJ4',
+		rapgenius: '',
+		nominated: [
+			'Edzio',
+			'Obi',
+			'E V',
+			'Bob',
+			'Sowa',
+			'Brat Dzakoba',
+			'Jestemayy',
+			'Remik',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'EIGHT-O',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJyxDUREXVuksMmDG1snK1LKvBhpCTSdI_C_Xg=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/KBecxwn7bgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/KBecxwn7bgA',
+		rapgenius: 'https://genius.com/Eight-o-hot16challenge2-lyrics',
+		nominated: ['Ali As', 'NULLZWEIZWEI', 'ALO431'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Estro',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/MGFHPpTvoEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/MGFHPpTvoEU',
+		rapgenius: 'https://genius.com/Estro-hot16challenge2-lyrics',
+		nominated: ['Piro', '$MOK3RSI', 'Ricardo', 'Jagła', 'Szad', 'Ghostmane'],
+	},
+	{
+		id: uuidv4(),
+		name: 'E V',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJzf-tFOSKkTKgZ-6D3fCIbbZ_uo850fbyA91A=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/iaLjhVGgets" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/iaLjhVGgets',
+		rapgenius: '',
+		nominated: ['Piela', 'basboy', 'Julek', 'Tripl3', 'Sobel', 'Brudna Małpa'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Feno',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/tq3Ja9qcU78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/tq3Ja9qcU78',
+		rapgenius: 'https://genius.com/Feno-hot16challenge2-lyrics',
+		nominated: ['Rewers', 'Wiz', 'Fangotten', 'DisStream', 'Goro', 'VIAGRV'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Fifson',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/sZ5e9WSF55Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/sZ5e9WSF55Y',
+		rapgenius: 'https://genius.com/Fifson-hot16challenge2-lyrics',
+		nominated: ['DMN', 'Młody Dziadek', 'Rataj', 'Kazet'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Floral Bugs',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2Fd3489940f034fa1ce56ce62bed1b44ad.1000x1000x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/DuChuPrM44g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/DuChuPrM44g',
+		rapgenius: 'https://genius.com/Floral-bugs-hot16challenge2-lyrics',
+		nominated: [
+			'CHZDM',
+			'7X7X7',
+			'Piotr Cartman',
+			'alan',
+			'Fejz',
+			'Skits Vicious',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Floras',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/Alof2ffwbZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/Alof2ffwbZY',
+		rapgenius: 'https://genius.com/Floras-hot16challenge2-lyrics',
+		nominated: ['Locomode', 'Pluti', 'Przybył'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Frosti Rege',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJxjsjQZt73rCRZOgpoThFM-CGK8YxFfYAp9iQ=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/SNi-OJRWm0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/SNi-OJRWm0I',
+		rapgenius: 'https://genius.com/Frosti-rege-powaznie-hot16challenge2-lyrics',
+		nominated: [
+			'Berson',
+			'Maszkin',
+			'Capri Sauce',
+			'Mery Spolsky',
+			'Młody Bandziorek',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Girson',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/-VDVLppPcRU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/-VDVLppPcRU',
+		rapgenius: 'https://genius.com/Girsone-hot16challenge2-lyrics',
+		nominated: [
+			'Belmondo (Młody G)',
+			'Sobota',
+			'PLK',
+			'Jongmen',
+			'TomB',
+			'Hanusza',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'gottastral',
+		imageURL:
+			'https://images.genius.com/1cde87727f0020745a5355af6a0fa134.246x138x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/bpiBIzZTq8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/bpiBIzZTq8A',
+		rapgenius: 'https://genius.com/Gottastral-hot16challenge2-lyrics',
+		nominated: [
+			'WIFI KLAN',
+			'GUGU Pako',
+			'GUGU Aleshen',
+			'Urboishawty',
+			'Młody Dron',
+			'Don Poldon',
+			'Big Musik Sosa',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Hvze',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJxvr_eEJnVlYPFwRGzVHadEM7OQwdyGw4_AYA=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/FVNAYEQqlZs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/FVNAYEQqlZs',
+		rapgenius: 'https://genius.com/Hvze-hot16challenge2-lyrics',
+		nominated: ['HVKU', 'Raverav', 'Riko', 'Małpa', 'Duda'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Jarecki',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJwTNia-iCsiBlosOkgrcrOqlPhE2c28yNrKJg=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/B4wE1OkzKg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/B4wE1OkzKg4',
+		rapgenius: 'https://genius.com/Jarecki-hot16challenge2-lyrics',
+		nominated: ['BRK', 'Grubson', 'Igo', 'Udoo', 'Gooral'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Jestemayy',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/IiMWdBzkInA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/IiMWdBzkInA',
+		rapgenius: 'https://genius.com/Jestemayy-hot16challenge2-lyrics',
+		nominated: ['Kubix', 'Lil PaY', 'PEJA', 'Hanafi'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Jot',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJwtmx7ZnSEtBxwaUCUpRa_dfi2PESdIH3cEqw=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/OQAxtSft7dE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/OQAxtSft7dE',
+		rapgenius: 'https://genius.com/Jot-hot16challenge2-lyrics',
+		nominated: ['Isiek', 'Roszja', 'Pijak', 'Ras', 'Mrozu'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Kaczy Proceder',
+		imageURL:
+			'https://t2.genius.com/unsafe/391x220/https%3A%2F%2Fimages.genius.com%2F49abc3d3510dba7ac49bb656ae415ead.1000x563x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/r_G2NZxvtT0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/r_G2NZxvtT0',
+		rapgenius: 'https://genius.com/Kaczy-hot16challenge2-lyrics',
+		nominated: ['Rena', 'Egon', 'Fu', 'Jongman'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Kafar DIX37',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fa558a01daffff8d31a1e8f025deb0d99.1000x563x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/EYT-GnXd1jk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/EYT-GnXd1jk',
+		rapgenius: 'https://genius.com/Kafar-dixon37-hot16challenge2-lyrics',
+		nominated: [
+			'Polskie Podziemie',
+			'Rogal DDL',
+			'Jongmen',
+			'Polska Wersja',
+			'Małach/Rufuz',
+			'Hemp Gru',
+			'Wąs i Koks',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Kamel',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2F5a78d34b3cd1a230e19769fa57e68161.299x299x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/w93r5CfJHtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/w93r5CfJHtM',
+		rapgenius: 'https://genius.com/Kamel-hot16challenge2-lyrics',
+		nominated: ['Diox', 'Sitek', 'Kuban', 'Octavian'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Kastet THC',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJx-6lrFrpLJK90_OUKY9nwTVqh6eZ7lhEo9rg=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/Q5EFNXMui0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/Q5EFNXMui0w',
+		rapgenius: 'https://genius.com/Kastet-thc-hot16challenge2-lyrics',
+		nominated: [
+			'Karma DMS',
+			'Rzabka',
+			'Grzegor RC',
+			'Ksienrzniczka THC',
+			'K Ronaldo',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Katy M',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJxdLi4MB5heqgQ3bB6JHSOvICWMXEdF39Q2aw=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/_Lfq1anybPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/_Lfq1anybPY',
+		rapgenius: 'https://genius.com/Tymek-hot16challenge2-katy-m-lyrics',
+		nominated: [
+			'Ćpajstajl',
+			'Stamir',
+			'Mikiminaj',
+			'Syny',
+			'Motoruwa',
+			'XXXPlaystation',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Kazior',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJxee8TAdujNe9FcC-9NZvG20eDw-Uhxw4S3hg=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/EZvOnVI_u3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/EZvOnVI_u3I',
+		rapgenius: 'https://genius.com/Kazior-hot16challenge2-lyrics',
+		nominated: [
+			'Królik Karlos',
+			'Wini',
+			'donGURALesko',
+			'Rogal DDL',
+			'Meras',
+			'Padronwski',
+			'Skaterboyrico',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Kidd',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F9878b303a440f6e71f0924af01fecd97.1000x563x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/JUv55nHaH7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/JUv55nHaH7w',
+		rapgenius: 'https://genius.com/Kidd-pl-hot16challenge2-lyrics',
+		nominated: ['Jeż', 'Junes', 'Cruz', 'Zkibwoy', 'Alex'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Klarenz',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/FGEaxGhnR1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/FGEaxGhnR1Y',
+		rapgenius: '',
+		nominated: [
+			'Hawran',
+			'Kecaj',
+			'Karwel',
+			'Emikae',
+			'Aplik Japko',
+			'Suchy Majk',
+			'A.trusdeff',
+			'Leny',
+			'Łajdak',
+			'Hubert W',
+			'Camell Kontrargument',
+			'Darken (DRKN)',
+			'Michał Tomasik',
+			'Prentki',
+			'Sami',
+			'Haker',
+			'Kron',
+			'SPC',
+			'Robert Makłowicz',
+			' Grzegorz Braun',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Kodein',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/iWwsgKuAIZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/iWwsgKuAIZQ',
+		rapgenius: 'https://genius.com/Kodein-hot16challenge2-lyrics',
+		nominated: ['Zenek Martyniuk'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Koneser',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fc9a4ce554cfbe0a3ac50c25dfb10b40f.300x300x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/J5lmK21Uz5Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/J5lmK21Uz5Y',
+		rapgenius: 'https://genius.com/Koneser-hot16challenge2-lyrics',
+		nominated: ['Ralopib', 'Kielas', 'Jurekofficial_', 'Hvze', 'Pazzy'],
+	},
+	{
+		id: uuidv4(),
+		name: 'KPSN',
+		imageURL:
+			'https://t2.genius.com/unsafe/221x221/https%3A%2F%2Fimages.genius.com%2F4e91e47dba39bd4138e1e61b44787b43.720x720x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/IO_ts7vEIJs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/IO_ts7vEIJs',
+		rapgenius: 'https://genius.com/Kpsn-hot16challenge2-lyrics',
+		nominated: [
+			'JNR',
+			'Odesdoen',
+			'Kafar DIX37',
+			'Bambo The Smuggler',
+			'Yurkosky',
+			'Odesoen',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Krulig',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/l_JONk_JKLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/l_JONk_JKLE',
+		rapgenius: 'https://genius.com/Krulig-hot16challenge2-lyrics',
+		nominated: [
+			'Kowalczyk',
+			'Młody PSZ',
+			'Daria Zawiałow',
+			'TheNis',
+			'Beka KSH',
+			'Kstyk',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Krys',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/en31RCyQwQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/en31RCyQwQE',
+		rapgenius: 'https://genius.com/Krys-hot16challenge2-lyrics',
+		nominated: ['Janusz', 'Ktoinny', 'Ader', 'Grzesio Kominiara'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Książe Mazowiecki',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/LZiMo19x9JA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/LZiMo19x9JA',
+		rapgenius: 'https://genius.com/Ksiaze-mazowiecki-hot16challenge2-lyrics',
+		nominated: ['DTVN SQU', 'SEMF', 'Rastek Kronikarz', 'EMKA'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Kuban',
+		imageURL:
+			'https://goingapp.pl/storage/app/uploads/public/592/b28/f0e/thumb_109935_600x350_0_0_crop.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/ELwKkgLr41g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/ELwKkgLr41g',
+		rapgenius: 'https://genius.com/Kuban-hot16challenge2-lyrics',
+		nominated: ['Pyskaty', 'Siwers', 'Reno', 'Rafał Pacześ'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Oxon',
+		imageURL:
+			'https://yt3.ggpht.com/a-/AOh14GjUDsB06Adm-4i_yO8HAEVT4VHToWghvFnNKIej=s48-c-k-c0xffffffff-no-nd-rj',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/EUzquwZq6CE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/EUzquwZq6CE',
+		rapgenius: '',
+		nominated: [
+			'Kojot',
+			'FonoPe',
+			'Marzec',
+			'Dziki Trener',
+			'Czajnik',
+			'Chris Webby',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Sidney Polak',
+		imageURL:
+			'https://yt3.ggpht.com/a-/AOh14Gga2u_GZybL8JEWLJdbebAPQnDLrkNpnAkM9MaW=s48-c-k-c0xffffffff-no-nd-rj',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/NeDOLLWQTDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/NeDOLLWQTDs',
+		rapgenius: '',
+		nominated: ['Zygmut Staszczyk', 'Tabu', 'Mesajah', 'Mrozu', 'Ceha Joint'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Polska Wersja',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJzVcum1Q387fkw-PYvBAaICVu-ZxKZymU5bRA=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/S61W0tt3YbI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/S61W0tt3YbI',
+		rapgenius: '',
+		nominated: ['FONOS', 'PSR', 'SIUWAX ', 'eSITe', 'SIUWAX TZWM', 'Balu'],
+	},
+	{
+		id: uuidv4(),
+		name: 'ADM',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F14537e23b421c065d698b59ec70fc399.492x492x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/Jak4E7XlOs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/Jak4E7XlOs8',
+		rapgenius: 'https://genius.com/Adm-hot16challenge2-lyrics',
+		nominated: ['Mateusz Borek', 'Wasyl'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Lechu',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/stKfJ-uCPVw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/stKfJ-uCPVw',
+		rapgenius: 'https://genius.com/Lechu-hot16challenge2-lyrics',
+		nominated: [
+			'Brzoza',
+			'Kubbini',
+			'Leon',
+			'Borowy',
+			'Bajorson',
+			'Brudna małpa',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Locomode',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fc21bcdae3bf33416f161a74c0587c013.748x748x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/suz6Z_qT7CA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/suz6Z_qT7CA',
+		rapgenius: 'https://genius.com/Locomode-hot16challenge2-lyrics',
+		nominated: ['Chojak', 'Gnojas', 'Big Nine', 'Fibonaczi', 'Talib', 'Arab'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Łatwosięmówi (Vera Icon & Japko)',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJySs_zmnt_mTtE8_ty1SaunMazrJP5Kt7hfrg=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/jAQPV-EoWas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/jAQPV-EoWas',
+		rapgenius: 'https://genius.com/Vera-icon-hot16challenge2-lyrics',
+		nominated: ['Mikser', 'PONO', 'Sylwester Dackiewicz', 'Abi'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Majki',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJw5w4Elepcrvj_pK2qr0nc962O856AXPtKS=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/KsvXB5TKKBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/KsvXB5TKKBA',
+		rapgenius: '',
+		nominated: ['OLO SOLO', 'JANEKJAHU', 'ROBSON PRO'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Marian Lichtman',
+		imageURL:
+			'https://t2.genius.com/unsafe/391x220/https%3A%2F%2Fimages.genius.com%2F94eb1f478ef1f0c7e73b6d00b5b005a8.1000x563x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/tQs40bECF4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/tQs40bECF4I',
+		rapgenius: 'https://genius.com/Marian-lichtman-hot16challenge2-lyrics',
+		nominated: ['Krzysztof Krawczyk', 'Aldona Orłowska', 'Dwa Sławy'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Mariano Italiano',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/RIG8Eyzeovk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/RIG8Eyzeovk',
+		rapgenius: '',
+		nominated: ['Wilku WDZ', 'Żary JLB', 'Kubaz', 'Fifka', 'Maja Kapłon'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Martyn ESM',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fd95f8ca24bd0ae05560b442893803ff2.566x566x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/rZT_0omiTRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/rZT_0omiTRM',
+		rapgenius: 'https://genius.com/Martyn-esm-hot16challenge2-lyrics',
+		nominated: ['WuWunio', 'Warszawski', 'Maxim', 'Małek36', 'Damian Wasiak'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Matis',
+		imageURL:
+			'https://t2.genius.com/unsafe/380x220/https%3A%2F%2Fimages.genius.com%2F395d08879978e4009a20a20556464c34.1000x580x1.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/HKnF_Qi1KaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/HKnF_Qi1KaY',
+		rapgenius: 'https://genius.com/Matis-hot16challenge2-lyrics',
+		nominated: ['Sensi', 'Tytson', 'Decó', 'Hinol'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Maxim',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F214d7233b93b2777c02c3073226e0784.1000x1000x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/7MXst2mhS2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/7MXst2mhS2Q',
+		rapgenius: 'https://genius.com/Maxim-hot16challenge2-lyrics',
+		nominated: [
+			'Radzias',
+			'Rip Scotty',
+			'Freszsz',
+			'Potężny Hypeman',
+			'E-Turn',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Medard',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJwMk16QC-ITe7hgFBS9FNHzJql797jxfaUtcQ=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/2xgKas3F6Oc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/2xgKas3F6Oc',
+		rapgenius: '',
+		nominated: [
+			'Tadeusz Kościński',
+			'Mateusz Morawiecki',
+			'Majkel',
+			'Anatom',
+			'Emikae',
+			'Rene',
+			'Kazik Staszewski',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Medusa',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJwnHEzCazrnC1wPkVxOBTmsTyHNmiIBAjC6fQ=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/NDxqTlBgVBg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/NDxqTlBgVBg',
+		rapgenius: '',
+		nominated: ['Wojciech Gola', '1sierrasierra', 'Adrian Polak', 'Ryba'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Meek, Oh Why?',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F369c49406aef50e4e47f94891e796aa7.602x510x1.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/YDpET01rIn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/YDpET01rIn0',
+		rapgenius: 'https://genius.com/Meek-oh-why-hot16challenge2-lyrics',
+		nominated: [
+			'Robert Lewandowski',
+			'Sarsa',
+			'Mela Koteluk',
+			'Santabarbara',
+			'Król',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Mery Spolsky',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F3c3ae3776306743969b6f25a37dfff0c.1000x563x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/XjJE_sJsQxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/XjJE_sJsQxs',
+		rapgenius: 'https://genius.com/Mery-spolsky-hot16challenge2-lyrics',
+		nominated: ['Rat Kru', 'Karolina Czarnecka', 'Die Antwoord'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Michał Anioł',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJwdV6Q6DJVoBF7erhTTYDlxfVTVrXFOyox8vQ=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/UTFuzDe1X_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/UTFuzDe1X_A',
+		rapgenius: '',
+		nominated: ['Prometh', 'Piotr Zioła', 'Frank Leen', 'Julian Uhu'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Michu',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/fp8e2-7SIoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/fp8e2-7SIoE',
+		rapgenius: 'https://genius.com/Michu-hot16challenge2-lyrics',
+		nominated: ['Lubin', 'DMP', 'Pyskaty', 'Przemo Selekta'],
+	},
+	{
+		id: uuidv4(),
+		name: 'MIGEKK',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fbd579282e9292bbe074f91883fb3fbf9.360x360x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/Co2bsxYd3go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/Co2bsxYd3go',
+		rapgenius: 'https://genius.com/Migekk-hot16challenge2-lyrics',
+		nominated: ['Syndrom Paryski', 'Bitamina', 'Ozzie', 'MC Silk'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Miki',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJxdSjDw1WKV1eMUygaPPL2n_hRNj3P1i_1K7w=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/vcX5blnqBtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/vcX5blnqBtg',
+		rapgenius: 'https://genius.com/Miki-pl-hot16challenge2-lyrics',
+		nominated: [
+			'Lordofon',
+			'FraczekRap',
+			'V3L3M3NT',
+			'Asap Rocky',
+			'Travis Scott',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Młody Bandziorek',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/67_Aq6ZMMaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/67_Aq6ZMMaI',
+		rapgenius: 'https://genius.com/Mody-bandziorek-hot16challenge2-lyrics',
+		nominated: ['9tka', 'Jarek Jey & Hamish', 'Czorny', 'Jay Reaper'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Młody krzaquu',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/DXc30WgAdRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/DXc30WgAdRY',
+		rapgenius: '',
+		nominated: ['Da Hill', 'Dobrzemati', 'Fokus', 'Skinny', 'Flamma.flame'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Młody Wiśnia',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/mA_pO1hJ3ho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/mA_pO1hJ3ho',
+		rapgenius: '',
+		nominated: ['Szuszeq', 'Cheatz', 'Hrabia Tym$on'],
+	},
+	{
+		id: uuidv4(),
+		name: 'MŁODY ŻMIJA',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fe755ae2d1f1eb1ad96a576b508b04096.1000x563x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/Ah_k7wp98Rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/Ah_k7wp98Rc',
+		rapgenius: 'https://genius.com/Mody-zmija-hot16challenge2-lyrics',
+		nominated: [
+			'Delph',
+			'Po prostu Kajtek',
+			'Ronin',
+			'Pako',
+			'LYLU MFG',
+			'strawberryblunt',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Moli',
+		imageURL:
+			'https://t2.genius.com/unsafe/391x220/https%3A%2F%2Fimages.genius.com%2Fc4053e29648798befe8d27572d991474.1000x563x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/HcVQLD_OD4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/HcVQLD_OD4U',
+		rapgenius: 'https://genius.com/Moli-pl-hot16challenge2-lyrics',
+		nominated: ['Kuks', 'Płochu', 'Jurek Kiler', 'Net Films', 'XXX'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Monumatik',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/ABF8l5ijyO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/ABF8l5ijyO0',
+		rapgenius: '',
+		nominated: [
+			'Killing Skills',
+			'Yaamigo',
+			'Biały WM',
+			'Yanguan',
+			'Czooper',
+			'Jankes',
+			'JZU',
+			'Żołnierz APŻ',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Morus',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/T2SapwmU9nA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/T2SapwmU9nA',
+		rapgenius: 'https://genius.com/Morus-hot16challenge2-lyrics',
+		nominated: ['Maskot', 'Letni'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Mr. Polska',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F1dd4205073d79ecccb6bcaa64c7dd410.853x853x1.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/ifw8TxJWB74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/ifw8TxJWB74',
+		rapgenius: 'https://genius.com/Mr-polska-hot16challenge2-lyrics',
+		nominated: ['3ROBI ', 'JEBROER', 'VLEXUS', 'BEXEY', 'MARADONNIE'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Napster',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/Zh3GcVpgT6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/Zh3GcVpgT6w',
+		rapgenius: '',
+		nominated: ['HED', 'KOLINS', 'STEEZ', 'BAŻANT'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Nerink',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJy7z0xqK10f-eQb42hB0yJs1IJYJa6g5d2ubw=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/Hbk9oTww9VQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/Hbk9oTww9VQ',
+		rapgenius: '',
+		nominated: [
+			'Malina',
+			'Damian',
+			'Kush',
+			'Prądzyś',
+			'Wujek Makowskiego z Nigerii',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Norbi',
+		imageURL:
+			'https://t2.genius.com/unsafe/352x220/https%3A%2F%2Fimages.genius.com%2F0b7b7a439ba387a6c724762c57a8f744.800x500x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/PRjD7zLXyL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/PRjD7zLXyL0',
+		rapgenius: 'https://genius.com/Norbi-hot16challenge2-lyrics',
+		nominated: ['Tomasz Karolak', 'Kuba Wojewódzki', 'Natalia Kukulska'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Nova',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/iUxfUwEBoxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/iUxfUwEBoxw',
+		rapgenius: 'https://genius.com/Nova-pl-hot16challenge2-lyrics',
+		nominated: [
+			'OsaKa',
+			'Szymi Szyms',
+			'Gracek',
+			'Zajek',
+			'Kvcek',
+			'Piotr Żyła',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'obi',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fdb3cedfe18159f7bc9334546acffc550.288x288x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/nfqxapwmgJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/nfqxapwmgJE',
+		rapgenius: 'https://genius.com/Obi-hot16challenge2-lyrics',
+		nominated: [
+			'Jacob',
+			'Young Daniel',
+			'Koder',
+			'Gimper',
+			'Michał Wiśniewski',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Obserwator Świata Faktów',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/F2HbXnuDSjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/F2HbXnuDSjc',
+		rapgenius:
+			'https://genius.com/Obserwator-swiata-faktow-hot16challenge2-lyrics',
+		nominated: [
+			'Mara MDM',
+			'Arczi Szajka',
+			'Młodszy Łyskacz',
+			'Maro',
+			'Finem',
+			'Paka',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Odesoen',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/THk5j_YWmBg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/THk5j_YWmBg',
+		rapgenius: 'https://genius.com/Odesoen-hot16challenge2-lyrics',
+		nominated: [
+			'Adrian',
+			'PN',
+			'Janon',
+			'HNA',
+			'PiatinioRGA a.k.a Młody Szczurek',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Olgierd',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/BgqSeqeUcEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/BgqSeqeUcEA',
+		rapgenius: 'https://genius.com/Og-olgierd-hot16challenge2-lyrics',
+		nominated: [
+			'SBT',
+			'ARCHI',
+			'ENSEN',
+			'ZESPÓŁ TAŃCA I PIEŚNI WOŁCZKOWO',
+			'PRZEMYSŁAW B SYN BOGDANA',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'OKOLICZNY ELEMENT',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2F4e21f91345591f15174e52e175956865.300x300x1.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWNvnjWGgzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/ZWNvnjWGgzA',
+		rapgenius: 'https://genius.com/Okoliczny-element-hot16challenge2-lyrics',
+		nominated: ['Reno', 'Ras Luta', 'SMA', 'Stary Kataryniarz'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Onar',
+		imageURL:
+			'https://yt3.ggpht.com/a-/AOh14GjdvwBBjgeqNUeRspK7E4W0bUyFE2IM5k4rga4v-w=s48-c-k-c0xffffffff-no-nd-rj',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/RQNlHjdfb-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/RQNlHjdfb-o',
+		rapgenius: '',
+		nominated: ['SITEK', 'JANO PW', 'ŻYTO', 'RAU', 'DJ 600VOLT'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Opał',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F6aa892074ed9789d32a16a3cb21f6c4d.1000x1000x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/iyaq_WuT89c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/iyaq_WuT89c',
+		rapgenius: 'https://genius.com/Opa-hot16challenge2-lyrics',
+		nominated: ['Kleszcz', 'Jetlagz', 'Kadraj', 'Oliver', 'Dezy', 'Mr. Main'],
+	},
+	{
+		id: uuidv4(),
+		name: 'olszakumpel',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2F3543c4f96cf5610f19c2ec1e09b24c02.600x600x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/mvWhXeCE24w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/mvWhXeCE24w',
+		rapgenius: 'https://genius.com/Olszakumpel-hot16challenge2-lyrics',
+		nominated: ['Rafonix', 'Gzuz', 'Dis', 'Cezary Pazura', 'Hrypa'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Pan Wankz',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fc7e81230acb2c96f63654977520e8365.720x720x1.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/iB4knujQ8dw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/iB4knujQ8dw',
+		rapgenius: 'https://genius.com/Pan-wankz-hot16challenge2-lyrics',
+		nominated: ['Jajonasz', 'Lukatricks', 'Dizkret', 'Kret1'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Peres',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/wWgJDQ2FCR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/wWgJDQ2FCR8',
+		rapgenius: 'https://genius.com/Peres-hot16challenge2-lyrics',
+		nominated: ['Kopyt UDR', 'Egon NON', 'Mały Dzb', 'Maro'],
+	},
+	{
+		id: uuidv4(),
+		name: 'perti',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJwonqTGd4-NoO2VZEwSJaMJ7lRNSvgXPNaThQ=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/ITnOcH4OK20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/ITnOcH4OK20',
+		rapgenius: 'https://genius.com/Perti-hot16challenge2-lyrics',
+		nominated: ['Big Gucci Sami', 'Lohleq', 'Bert 022'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Peter Gang PP',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/9LFYlfIT6nM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/9LFYlfIT6nM',
+		rapgenius: '',
+		nominated: [
+			'Żółwik 3y',
+			'Maniu Gang PP',
+			'Songo Omerta',
+			'Krux',
+			'Iza Iprzeciw',
+			'STW Podziemie',
+			'RAKU',
+			'Ziomuś Prosto z Fordonu',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Phantom',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJz-PgapoiIrz-NIj273ifQrNIL4J60yKtkONA=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/qNRYCPSHK9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/qNRYCPSHK9M',
+		rapgenius: 'https://genius.com/Phantom-hot16challenge2-lyrics',
+		nominated: ['Hadoem', 'Planet ANM', 'Penx', 'Olaf Bressa'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Piluś',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/O_ioqE70q4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/O_ioqE70q4c',
+		rapgenius: '',
+		nominated: ['HMS', 'Wacar', 'Kamil Stark', 'Partyk De', 'Isho', 'Gieha'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Piro',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJyi0cMg7mG33Q-GTUYPZfHl93D84FcOaIZD5w=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/4Fl1-t9RQxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/4Fl1-t9RQxQ',
+		rapgenius: '',
+		nominated: ['You_Rec', 'MGK', 'el_sieniawo_vevo', 'Ronnie Ferrari'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Pit',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F8d36246498e21857911281e2e17fd9d1.288x288x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/Qa5XVJMsZIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/Qa5XVJMsZIw',
+		rapgenius: 'https://genius.com/Mody-pit-hot16challenge2-lyrics',
+		nominated: [
+			'Sobel',
+			'Zeamsone',
+			'Bizzlie',
+			'Miłosz Zduńczuk',
+			'Bryan',
+			'Studio Powidok',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'PLC',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/NJRZEkUC74w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/NJRZEkUC74w',
+		rapgenius: 'https://genius.com/Plc-pl-hot16challenge2-lyrics',
+		nominated: [
+			'Barshxhq',
+			'Szeli',
+			'Fontam',
+			'Klama',
+			'Magda Gessler',
+			'Young Dzidol',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Plus',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/2UVDRNp7aG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/2UVDRNp7aG0',
+		rapgenius: 'https://genius.com/Plus-pl-hot16challenge2-lyrics',
+		nominated: ['Kolins', 'DJ Steez', 'Kazet', 'Bonzo', 'Łapa TWM'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Profesor Smok',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/dU6y4QR7Uls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/dU6y4QR7Uls',
+		rapgenius: 'https://genius.com/Profesor-smok-hot16challenge2-lyrics',
+		nominated: ['BJN', 'StachuYankes', 'HUNNID', 'Jay Reaper', 'Kinga Rusin'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Przybył',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/vfLLJglqv8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/vfLLJglqv8o',
+		rapgenius: 'https://genius.com/Przyby-hot16challenge2-lyrics',
+		nominated: ['Tiff', 'Faudee', 'YNGKubi'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Pshemo',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fd2bf868646b72b5d7265420eac79c9eb.750x750x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/YCqYhRzSfk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/YCqYhRzSfk4',
+		rapgenius: 'https://genius.com/Pshemo-hot16challange2-lyrics',
+		nominated: [
+			'PABLO NOVACCI',
+			'SIMPSON',
+			'ORO',
+			'RIO',
+			'TYPZSTM',
+			'SEVENTEENBOY',
+			'CHIEF KEEF',
+			'KRZYSZTOF IBISZ',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Rolf',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJzApufjJXmBe0aa0oXCtBpr_tFacKBviE92Lg=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/GM2LzqTi090" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/GM2LzqTi090',
+		rapgenius: 'https://genius.com/Rolf-hot16challenge2-lyrics',
+		nominated: ['Harrisb7', 'Toma', 'Remik', 'Jezior', 'MSK', 'PU', 'SUAVO'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Rufuz',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/CIm8j7kJQ5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/CIm8j7kJQ5o',
+		rapgenius: '',
+		nominated: ['COMSON DIIL GANG', 'MAŁACH MR CREW', 'RETO', 'KABE'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Ry23',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJzgIzWl0rYAgEFA-Y28XLuwOx1PI_GGHn-o_A=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/C31-3Un1GwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/C31-3Un1GwE',
+		rapgenius: '',
+		nominated: ['Rafi', 'Ezdode', 'Tymon', 'Vladimir Putin'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Saful',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJzPNtlNacaVsAcHtgIajuhXbCl4vSp30BgsQg=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/1yVk_VcEHm0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/1yVk_VcEHm0',
+		rapgenius: 'https://genius.com/Saful-dixon37-hot16challenge2-lyrics',
+		nominated: ['Eldo', 'Siwers', 'Beton.Hofi', 'Masny'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Santez',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F2d9ac1621c11962b7f7a222409a5e4c6.1000x1000x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/Ii0D_u4ixR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/Ii0D_u4ixR0',
+		rapgenius: 'https://genius.com/Santez-hot16challenge2-lyrics',
+		nominated: ['Parczuś', 'Tommy', 'Dziad', 'Kaper', 'Tiff'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Sinus',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/RFPT8aitEaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/RFPT8aitEaI',
+		rapgenius: 'https://genius.com/Sinus-hot16challenge2-lyrics',
+		nominated: ['Penx', 'Piotr Cartman', 'Pueblos', 'IsAmUxPompa', 'Szwagier'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Szwagier',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Fb4f6f7b1dbda11b7b061b83e1380cf10.1000x563x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/awgoKRblSq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/awgoKRblSq8',
+		rapgenius: 'https://genius.com/Szwagier-pl-hot16challenge2-lyrics',
+		nominated: [
+			'White Window',
+			'Kwachu',
+			'Kaczka',
+			'EfPe',
+			'IDontExistAnymore (IDEA)',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Tau',
+		imageURL:
+			'https://t2.genius.com/unsafe/365x220/https%3A%2F%2Fimages.genius.com%2F9aa17afc8af01c9a090c69f5ea393740.602x363x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/Q4RGXSXcIno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/Q4RGXSXcIno',
+		rapgenius: 'https://genius.com/Tau-hot16challenge2-lyrics',
+		nominated: [
+			'Ks. Jakub Bartczak',
+			'Atezu',
+			'Wyrwani z niewoli',
+			'Tomasz Gerek',
+			'Ematei',
+			'FRS',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Teabe',
+		imageURL:
+			'https://t2.genius.com/unsafe/221x220/https%3A%2F%2Fimages.genius.com%2F779bc5970801c22e01e02b292cf2bfdd.400x399x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/M1efJU5oTuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/M1efJU5oTuY',
+		rapgenius: 'https://genius.com/Teabe-hot16challenge2-lyrics',
+		nominated: [
+			'Yound DDZ',
+			'Zibex',
+			'Ginger',
+			'Żaku PPS',
+			'Folkpro',
+			'Preetybodydro',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'TPDW',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/_u00eYQs6l8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/_u00eYQs6l8',
+		rapgenius: 'https://genius.com/Tpdw-hot16challenge2-lyrics',
+		nominated: [
+			'Czarny Furiat',
+			'Kamil DSP',
+			'Populus',
+			'HotCzikaWeronika',
+			'Dwight Eisenhower',
+			'Kłyza MS',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'UKI BALBOA',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/awBi2KSDyYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/awBi2KSDyYQ',
+		rapgenius: 'https://genius.com/Uki-balboa-hot16challenge2-lyrics',
+		nominated: [
+			'Dzakob',
+			'Beg Lepes',
+			'Sitek',
+			'Milu',
+			'Gomer',
+			'LotDrozda',
+			'Chemik',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Uki Grajda',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/qcx8k6Z5cjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/qcx8k6Z5cjU',
+		rapgenius: '',
+		nominated: ['wszedzieZUBER', 'Komil', 'Reno', 'Samer', 'Skotar'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Wojti',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/wQ34Y8ygWsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/wQ34Y8ygWsI',
+		rapgenius: 'https://genius.com/Wojti-hot16challenge2-lyrics',
+		nominated: [
+			'Teabe',
+			'Babe_latinaa',
+			'Szamz',
+			'kolorowyksiąże',
+			'BZW',
+			'DJ Sparowsky',
+			'Hit the bucket squad',
+		],
+	},
+	{
+		id: uuidv4(),
+		name: 'Zagi & Michał Wrzos',
+		imageURL:
+			'https://images.genius.com/27320ad842f4f1bd035e518e91f2e323.1000x1000x1.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/IxwckgkKGiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/IxwckgkKGiQ',
+		rapgenius: 'https://genius.com/Zagi-micha-wrzos-hot16challenge2-lyrics',
+		nominated: ['Tekno', 'Igorilla', 'Paweł Izdebski'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Żaluzja Solonez',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/0wCsJYrdhuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/0wCsJYrdhuQ',
+		rapgenius: '',
+		nominated: ['Young Kai', 'Salvadorek', 'Rosa SGPW', 'Kowal', '50 Cent'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Rafon',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJwBH2c2jsaHOleGYA_Fhjtmp_VPmJyz19Alaw=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/OYTfKTr0NiE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/OYTfKTr0NiE',
+		rapgenius: '',
+		nominated: ['nitrozyniak', 'adamz', 'ulfik'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Boxdel',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJzNKNoP0FlJKy5EcyQAVqPbWuXm_xjv6vmL2Q=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/b6zncwaoARA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/b6zncwaoARA',
+		rapgenius: '',
+		nominated: [
+			'rafon',
+			'maciejkawulski',
+			'kamerzysta',
+			'gargamel',
+			'krzysztof ibisz',
+			'blowek',
+		],
+	},
+
+	{
+		id: uuidv4(),
+		name: 'Qry',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x220/https%3A%2F%2Fimages.genius.com%2F910bb1934600e2dabf62f44b87080ff0.1000x1000x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/OvRwUVHOQTc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+
+		youtube: 'https://youtu.be/OvRwUVHOQTc',
+		rapgenius: 'https://genius.com/Qry-hot16challenge2-lyrics',
+		nominated: ['Zetha ', 'Vkie ', ' Mini Majk', 'Roksana Węgiel'],
+	},
+
+	{
+		id: uuidv4(),
+		name: 'RakRaczej',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F32b113cdf9e7b213fa0c598fba4cd5e1.432x432x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/edVrEQaaEbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/edVrEQaaEbY',
+		rapgenius: 'https://genius.com/Rakraczej-hot16challenge2-lyrics',
+		nominated: ['Tomasin', 'BenBenito', 'Sztigar Bonko', 'Szynski'],
+	},
+	{
+		id: uuidv4(),
+		name: 'Rotacyjny',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/5ul__gymuhk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/5ul__gymuhk',
+		rapgenius: 'https://genius.com/Rotacyjny-hot16challenge2-lyrics',
+		nominated: ['Bajorson'],
+	},
+
+	{
+		id: uuidv4(),
+		name: 'Sawa SPZ',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/bJB5mUD0zng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/bJB5mUD0zng',
+		rapgenius: 'https://genius.com/Sawa-spz-hot16challenge2-lyrics',
+		nominated: ['Sage', 'Bachor', 'Charlie P', 'Maja Jeżowska'],
+	},
+
+	{
+		id: uuidv4(),
+		name: 'STD',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/gIcSgfYrRNA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/gIcSgfYrRNA',
+		rapgenius: 'https://genius.com/Std-pl-hot16challenge2-lyrics',
+		nominated: [
+			'Ines',
+			'Kicu',
+			'Lucek',
+			'Mufasa',
+			'Bandura',
+			'Kamzel',
+			'Norbert Gierczak',
+		],
+	},
+
+	{
+		id: uuidv4(),
+		name: 'Taz',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/7KcHGM-X_es" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+
+		youtube: 'https://youtu.be/7KcHGM-X_es',
+		rapgenius: '',
+		nominated: [
+			'DonGuralEsko',
+			'Śmiechu',
+			'XXOutsiders (Lufon & STRZ)',
+			'Afgvn',
+			'CZK',
+		],
+	},
+
+	{
+		id: uuidv4(),
+		name: 'TRL',
+		imageURL:
+			'https://yt3.ggpht.com/a/AATXAJy7BTX4QsIlEsKOcloIGffiHKyAfN33YTFz6g=s48-c-k-c0xffffffff-no-rj-mo',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/SPTUIlpN02Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/SPTUIlpN02Y',
+		rapgenius: 'https://genius.com/Trl-hot16challenge2-lyrics',
+		nominated: ['Klepton PGU', 'Lisu NW', 'Boberek', 'WueRski', 'XXXGZDX'],
+	},
+
+	{
+		id: uuidv4(),
+		name: 'Warszawski',
+		imageURL:
+			'https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2Ff64aeebdc05b8d35ccb16923a056520b.640x960x1.jpg',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/jmOGQeiJ1-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/jmOGQeiJ1-8',
+		rapgenius: 'https://genius.com/Warszawski-hot16challenge2-lyrics',
+		nominated: ['Kola', 'Papz', 'Paprodziad (Łąki Łan)', 'AK-47'],
+	},
+
+	{
+		id: uuidv4(),
+		name: 'Woody Rapa Nui',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/iA0L_VbRjNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/iA0L_VbRjNw',
+		rapgenius: 'https://genius.com/Woody-pl-hot16challenge2-lyrics',
+		nominated: ['ORBITAMIGO', ' MN PG'],
+	},
+
+	{
+		id: uuidv4(),
+		name: 'Zero',
+		imageURL:
+			'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/cIt2k0SglH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/cIt2k0SglH8',
+		rapgenius: 'https://genius.com/Zero-pl-hot16challenge2-lyrics',
+		nominated: ['Śliwka', 'Sivy', 'Młody Zgred'],
+	},
+	{
+		id: uuidv4(),
+		name: 'FLINT',
+		imageURL:
+			'https://i.ytimg.com/an_webp/iMdMVSmlANs/mqdefault_6s.webp?du=3000&sqp=CPS-2_UF&rs=AOn4CLCuLZ1xgBkeXjb47emxzqVPq2wADA',
+		iframe:
+			'<iframe width="560" height="315" src="https://www.youtube.com/embed/iMdMVSmlANs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		youtube: 'https://youtu.be/iMdMVSmlANs',
+		rapgenius: '',
+		nominated: [
+			'Wena',
+			'Filip Rudanacja',
+			'Marcin Wrzosek',
+			'Łukasz Juras Jurkowski',
 		],
 	},
 ];
