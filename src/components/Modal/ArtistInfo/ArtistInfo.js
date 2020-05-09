@@ -91,7 +91,10 @@ const Nominated = styled.span`
 	border-radius: 5px;
 `;
 
-const ArtistInfo = ({ artist: { name, youtube, nominated, rapgenius } }) => {
+const ArtistInfo = ({
+	artist: { name, youtube, nominated, rapgenius },
+	findArtist,
+}) => {
 	const rapgeniusLink = rapgenius && (
 		<LinkRound target="blank" href={rapgenius}>
 			Rapgenius
@@ -109,7 +112,7 @@ const ArtistInfo = ({ artist: { name, youtube, nominated, rapgenius } }) => {
 
 				<LinkContainer>
 					<Link target="blank" href={youtube}>
-						<YtIcon />
+						<YtIcon className="YT" />
 					</Link>
 					{rapgeniusLink}
 				</LinkContainer>
@@ -118,7 +121,9 @@ const ArtistInfo = ({ artist: { name, youtube, nominated, rapgenius } }) => {
 				<SmallHeadline>Nominowani:</SmallHeadline>
 				<NominatedContainer>
 					{nominated.map((nominatedArtist, index) => (
-						<Nominated key={index}>{nominatedArtist}</Nominated>
+						<Nominated onClick={() => findArtist(nominatedArtist)} key={index}>
+							{nominatedArtist}
+						</Nominated>
 					))}
 				</NominatedContainer>
 			</section>

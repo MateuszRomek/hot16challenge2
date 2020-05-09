@@ -59,7 +59,7 @@ const Video = styled.div`
 		border-top-right-radius: 10px;
 	}
 `;
-const Modal = ({ artist, onClose }) => {
+const Modal = ({ artist, findArtist }) => {
 	return (
 		<Backdrop>
 			<ModalContainer>
@@ -67,7 +67,7 @@ const Modal = ({ artist, onClose }) => {
 					<CloseIcon />
 				</CloseButton>
 				<Video dangerouslySetInnerHTML={{ __html: artist.iframe }}></Video>
-				<ArtistInfo artist={artist} />
+				<ArtistInfo findArtist={findArtist} artist={artist} />
 			</ModalContainer>
 		</Backdrop>
 	);

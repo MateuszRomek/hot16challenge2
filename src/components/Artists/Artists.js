@@ -3,7 +3,6 @@ import styled from 'styled-components';
 import { MediumHeadline } from '../../assets/styles/SharedStyledComponents/SharedStyledComponents';
 import SearchBar from './SearchBar/SearchBar';
 import Artist from './Artist/Artist';
-import { useCountRenders } from '../../customHooks/useCount';
 
 const ArtistListContainer = styled.div`
 	@media (min-width: 1281px) {
@@ -22,12 +21,16 @@ const ArtistsGridContainer = styled.div`
 	display: grid;
 	grid-gap: 1rem;
 	justify-content: center;
+	height: 400px;
+	overflow: scroll;
+	overflow-x: hidden;
 	grid-template-columns: repeat(auto-fit, 170px);
 	@media (min-width: 1281px) {
 		grid-column: 1/-1;
 		grid-row: 1;
 		overflow: scroll;
-		height: 500px;
+		overflow-x: hidden;
+		height: 650px;
 	}
 `;
 
@@ -42,12 +45,11 @@ const Artists = (props) => {
 			(artist) => artist.name.toLowerCase().indexOf(filterWord) !== -1
 		);
 		setArray(filterArr);
-	}, [filterWord]);
+	}, [filterWord, artistsList]);
 	const onSearchBarChange = (e) => {
 		setFilterWord(e.target.value.toLowerCase());
 	};
 
-	useCountRenders();
 	return (
 		<ArtistListContainer className="artistsContainer">
 			<ArtistHeaderHolder>

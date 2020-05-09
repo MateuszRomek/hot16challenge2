@@ -21,7 +21,7 @@ const ExpantMessageContent = styled.div`
 	overflow: hidden;
 	margin-bottom: 1rem;
 	@media (min-width: 1281px) {
-		height: ${(props) => (props.isExpand ? '120px' : '0px')};
+		height: ${(props) => (props.isExpand ? '140px' : '0px')};
 	}
 `;
 
@@ -46,6 +46,10 @@ const ExpandMessageText = styled.p`
 	font-size: 1.3rem;
 	line-height: 1.6rem;
 	text-align: justify;
+
+	@media (min-width: 1281px) {
+		padding: 1rem 4rem 1rem 0;
+	}
 `;
 
 const ExpandMessage = () => {
