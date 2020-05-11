@@ -89,9 +89,13 @@ const Nominated = styled.span`
 	padding: 0.6rem 1rem;
 	margin: 0.5rem 1rem;
 	border-radius: 5px;
+	transition: background-color 0.3s;
+	&:hover {
+		cursor: pointer;
+	}
 `;
 
-const ArtistInfo = ({
+const ModalInfo = ({
 	artist: { name, youtube, nominated, rapgenius },
 	findArtist,
 }) => {
@@ -121,7 +125,10 @@ const ArtistInfo = ({
 				<SmallHeadline>Nominowani:</SmallHeadline>
 				<NominatedContainer>
 					{nominated.map((nominatedArtist, index) => (
-						<Nominated onClick={() => findArtist(nominatedArtist)} key={index}>
+						<Nominated
+							onClick={(e) => findArtist(e, nominatedArtist)}
+							key={index}
+						>
 							{nominatedArtist}
 						</Nominated>
 					))}
@@ -131,4 +138,4 @@ const ArtistInfo = ({
 	);
 };
 
-export default ArtistInfo;
+export default ModalInfo;

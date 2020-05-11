@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { ReactComponent as CloseIcon } from '../../assets/icon/close.svg';
-import ArtistInfo from './ArtistInfo/ArtistInfo';
+import ModalInfo from './ModalInfo/ModalInfo';
 import Backdrop from '../UI/Backdrop/Backdrop';
 
 const ModalContainer = styled.div`
@@ -67,7 +67,7 @@ const Modal = ({ artist, findArtist }) => {
 					<CloseIcon />
 				</CloseButton>
 				<Video dangerouslySetInnerHTML={{ __html: artist.iframe }}></Video>
-				<ArtistInfo findArtist={findArtist} artist={artist} />
+				<ModalInfo findArtist={findArtist} artist={artist} />
 			</ModalContainer>
 		</Backdrop>
 	);
