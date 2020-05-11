@@ -9,7 +9,7 @@ import Modal from './components/Modal/Modal';
 import { artistArray } from './artistArray';
 import OfficialSite from './components/OfficialSite/OfficialSite';
 import Footer from './components/Footer/Footer';
-
+import reender from './customHooks/useCount';
 const DesktopGrid = styled.div`
 	@media (min-width: 1281px) {
 		display: grid;
@@ -21,6 +21,7 @@ const DesktopGrid = styled.div`
 function App() {
 	const [isModalOpen, setModal] = useState(false);
 	const [currentArtist, setCurrentArtist] = useState({});
+
 	const OpenModal = () => setModal(true);
 
 	const CloseModal = (e) => {
@@ -34,20 +35,28 @@ function App() {
 		} else return;
 	};
 
-	const FindArtist = (name) => {
+	const FindArtist = (e, name) => {
 		const artistIndex = artistArray.findIndex(
 			(a) => a.name.toLowerCase() === name.toLowerCase()
 		);
-		if (artistIndex === -1) return false;
-		const artistObj = { ...artistArray[artistIndex] };
-		setCurrentArtist({ ...artistObj });
+		if (artistIndex === -1) {
+			e.target.classList.add('notFound');
+			return false;
+		}
+
+		const resetNominated = document.querySelectorAll('.notFound');
+
+		resetNominated &&
+			resetNominated.forEach((e) => e.classList.remove('notFound'));
+		//const artistObj = { ...artistArray[artistIndex] };
+		setCurrentArtist({ ...artistArray[artistIndex] });
 	};
 
 	const HandleArtistClick = useCallback((artist) => {
-		FindArtist(artist);
+		FindArtist(null, artist);
 		OpenModal();
 	}, []);
-
+	reender();
 	return (
 		<div onClick={CloseModal} className="App">
 			<MainTemplate>

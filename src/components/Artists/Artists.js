@@ -36,16 +36,16 @@ const ArtistsGridContainer = styled.div`
 
 const Artists = (props) => {
 	const [filterWord, setFilterWord] = useState('');
-
+	const [filteredArtists, setFilteredArray] = useState([]);
 	const artistsList = props.artistArray;
-	const [array, setArray] = useState([]);
 
 	useEffect(() => {
-		const filterArr = artistsList.filter(
+		const filteredArray = artistsList.filter(
 			(artist) => artist.name.toLowerCase().indexOf(filterWord) !== -1
 		);
-		setArray(filterArr);
+		setFilteredArray(filteredArray);
 	}, [filterWord, artistsList]);
+
 	const onSearchBarChange = (e) => {
 		setFilterWord(e.target.value.toLowerCase());
 	};
@@ -58,14 +58,16 @@ const Artists = (props) => {
 			<SearchBar value={filterWord} onChange={onSearchBarChange} />
 
 			<ArtistsGridContainer>
-				{array.map((artist) => (
-					<Artist
-						click={() => props.handleArtistChange(artist.name)}
-						key={artist.id}
-						name={artist.name}
-						src={artist.imageURL}
-					/>
-				))}
+				{filteredArtists
+					.sort((a, b) => (a.name > b.name ? 1 : -1))
+					.map((artist) => (
+						<Artist
+							click={() => props.handleArtistChange(artist.name)}
+							key={artist.id}
+							name={artist.name}
+							src={artist.imageURL}
+						/>
+					))}
 			</ArtistsGridContainer>
 		</ArtistListContainer>
 	);

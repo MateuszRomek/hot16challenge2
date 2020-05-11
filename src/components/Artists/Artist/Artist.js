@@ -9,7 +9,7 @@ const ArtistContainer = styled.div`
 	height: 16rem;
 	border-radius: 15px;
 	&:hover {
-		box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+		box-shadow: 0 14px 28px rgba(0, 0, 0, 0.2), 0 12px 12px rgba(0, 0, 0, 0.12);
 	}
 `;
 
@@ -23,6 +23,7 @@ const ArtistImageHolder = styled.div`
 const ArtistImage = styled.img`
 	width: 100%;
 	height: 100%;
+	object-fit: cover;
 `;
 
 const ArtistName = styled.p`
